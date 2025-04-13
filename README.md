@@ -39,7 +39,7 @@ npm run build
 ## 👥 Colaboradores
 
 - Jonathan Huari
-- 
+- David Torres Centeno
 ## 📄 Licencia
 
 MIT
